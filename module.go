@@ -3,9 +3,9 @@ package gosmi
 import (
 	"fmt"
 
-	"github.com/sleepinggenius2/gosmi/models"
-	"github.com/sleepinggenius2/gosmi/smi"
-	"github.com/sleepinggenius2/gosmi/types"
+	"github.com/12bchl/gosmi/v1/models"
+	"github.com/12bchl/gosmi/v1/smi"
+	"github.com/12bchl/gosmi/v1/types"
 )
 
 type SmiModule struct {

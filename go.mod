@@ -1,8 +1,8 @@
-module github.com/sleepinggenius2/gosmi
+module github.com/12bchl/gosmi/v1
 
-go 1.16
+go 1.20
 
 require (
-	github.com/alecthomas/participle v0.4.1
-	github.com/alecthomas/repr v0.0.0-20210301060118-828286944d6a
+	github.com/alecthomas/participle v0.7.1
+	github.com/alecthomas/repr v0.4.0
 )

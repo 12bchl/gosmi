@@ -1,7 +1,7 @@
 package models
 
 import (
-	"github.com/sleepinggenius2/gosmi/types"
+	"github.com/12bchl/gosmi/v1/types"
 )
 
 type Node struct {

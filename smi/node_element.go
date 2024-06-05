@@ -3,8 +3,8 @@ package smi
 import (
 	"unsafe"
 
-	"github.com/sleepinggenius2/gosmi/smi/internal"
-	"github.com/sleepinggenius2/gosmi/types"
+	"github.com/12bchl/gosmi/v1/smi/internal"
+	"github.com/12bchl/gosmi/v1/types"
 )
 
 // SmiElement *smiGetFirstElement(SmiNode *smiNodePtr)
